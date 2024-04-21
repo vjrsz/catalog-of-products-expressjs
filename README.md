@@ -66,7 +66,7 @@ O projeto tem como objetivo apresentar minhas habilidades e conhecimentos com o 
 
 1. Clonar o repositório
    ```sh
-   git clone https://github.com/vjrsz/catalog-of-products.git
+   git clone https://github.com/vjrsz/catalog-of-products-expressjs.git
    ```
 2. Execute
    ```sh
@@ -105,16 +105,16 @@ Este projeto está licenciado sob a licença MIT - consulte o arquivo <a href=".
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/vjrsz/catalog-of-products.svg?style=for-the-badge
-[contributors-url]: https://github.com/vjrsz/catalog-of-products/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/vjrsz/catalog-of-products.svg?style=for-the-badge
-[forks-url]: https://github.com/vjrsz/catalog-of-products/network/members
-[stars-shield]: https://img.shields.io/github/stars/vjrsz/catalog-of-products.svg?style=for-the-badge
-[stars-url]: https://github.com/vjrsz/catalog-of-products/stargazers
-[issues-shield]: https://img.shields.io/github/issues/vjrsz/catalog-of-products.svg?style=for-the-badge
-[issues-url]: https://github.com/vjrsz/catalog-of-products/issues
-[license-shield]: https://img.shields.io/github/license/vjrsz/catalog-of-products.svg?style=for-the-badge
-[license-url]: https://github.com/vjrsz/catalog-of-products/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/vjrsz/catalog-of-products-expressjs.svg?style=for-the-badge
+[contributors-url]: https://github.com/vjrsz/catalog-of-products-expressjs/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/vjrsz/catalog-of-products-expressjs.svg?style=for-the-badge
+[forks-url]: https://github.com/vjrsz/catalog-of-products-expressjs/network/members
+[stars-shield]: https://img.shields.io/github/stars/vjrsz/catalog-of-products-expressjs.svg?style=for-the-badge
+[stars-url]: https://github.com/vjrsz/catalog-of-products-expressjs/stargazers
+[issues-shield]: https://img.shields.io/github/issues/vjrsz/catalog-of-products-expressjs.svg?style=for-the-badge
+[issues-url]: https://github.com/vjrsz/catalog-of-products-expressjs/issues
+[license-shield]: https://img.shields.io/github/license/vjrsz/catalog-of-products-expressjs.svg?style=for-the-badge
+[license-url]: https://github.com/vjrsz/catalog-of-products-expressjs/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/vjrsz
 [email]: https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white
